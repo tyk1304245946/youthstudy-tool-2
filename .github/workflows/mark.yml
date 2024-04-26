@@ -5,7 +5,7 @@ on:
       previous:
         description: '是否打卡往期课程'
         required: true
-        default: 'no'
+        default: 'yes'
         type: choice
         options: 
         - 'yes'
